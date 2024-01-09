@@ -1,5 +1,5 @@
 # Hi, I'm Rajendra Nagare
-- :telescope: I’m currently working on ... Manual Testing
+- :telescope: I’m currently working on ... SDET
 - :seedling: I’m currently learning ... Selenium
 - :dancers: I’m looking to collaborate on ... Automation
 - :thinking_face: I’m looking for help with ... 
