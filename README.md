@@ -2,7 +2,6 @@
 - :telescope: I’m currently working on ... SDET
 - :seedling: I’m currently learning ... Selenium
 - :dancers: I’m looking to collaborate on ... Automation
-- :thinking_face: I’m looking for help with ... 
 - :mailbox: How to reach me: ... rajendranagare161@gmail.com
    <p>
   <h4>Reach me</h4>
